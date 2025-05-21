@@ -1,0 +1,5 @@
+pip install -r requirements.txt
+pandas
+matplotlib
+requests
+beautysoap4
